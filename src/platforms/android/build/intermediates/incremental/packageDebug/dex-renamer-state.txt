@@ -1,0 +1,4 @@
+#Thu Mar 09 02:03:45 CST 2017
+base.0=C\:\\Users\\karthik\\Desktop\\subjects\\ASE\\assignment 7\\application3\\LabAssignment7\\platforms\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\karthik\\Desktop\\subjects\\ASE\\assignment 7\\application3\\LabAssignment7\\platforms\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
